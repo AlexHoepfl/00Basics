@@ -1,5 +1,7 @@
-age = 54
+print("Alter:", 25)
 
+age = 54
+print("Alter:", age)
 age = 54
 
 height = 1.75
